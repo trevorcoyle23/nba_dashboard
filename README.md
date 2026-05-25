@@ -25,7 +25,7 @@ This project displays live game data in an interactive dashboard, including the 
 
 ## Tech Stack
 
-- Python
+- Python (v3.10+)
 - Streamlit
 - pandas
 - Plotly
@@ -33,6 +33,11 @@ This project displays live game data in an interactive dashboard, including the 
 - NBA live data endpoints
 
 ---
+
+## Dependencies & Execution
+
+`pip3 install streamlit pandas plotly requests`
+`python3 -m streamlit run dashboard.py`
 
 ## Project Structure
 
