@@ -36,8 +36,11 @@ This project displays live game data in an interactive dashboard, including the 
 
 ## Dependencies & Execution
 
+```text
 `pip3 install streamlit pandas plotly requests`
 `python3 -m streamlit run dashboard.py`
+```
+---
 
 ## Project Structure
 
