@@ -49,3 +49,13 @@ nba-dashboard/
 │
 ├── dashboard.py
 └── README.md
+```
+---
+
+## Screenshots
+
+<img width="1440" height="900" alt="Screenshot 2026-05-26 at 10 02 22 PM" src="https://github.com/user-attachments/assets/b860cb4c-c470-43c0-9d92-2cea81719861" />
+<img width="1440" height="900" alt="Screenshot 2026-05-26 at 10 02 35 PM" src="https://github.com/user-attachments/assets/e7cd629b-9e67-4c06-9057-73de1a71a603" />
+<img width="1440" height="900" alt="Screenshot 2026-05-26 at 10 02 40 PM" src="https://github.com/user-attachments/assets/1d0ab066-648c-4ad8-b99e-28ae4ccc9800" />
+<img width="1440" height="900" alt="Screenshot 2026-05-26 at 10 02 47 PM" src="https://github.com/user-attachments/assets/f385dabe-cfad-4575-87cf-7e795b36804a" />
+<img width="1440" height="900" alt="Screenshot 2026-05-26 at 10 02 52 PM" src="https://github.com/user-attachments/assets/f9eeeeff-a81a-41fe-b292-9c43b3478498" />
